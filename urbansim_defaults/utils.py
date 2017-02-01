@@ -563,7 +563,7 @@ def full_transition(agents, agent_controls, year, settings, location_fname, link
         Dictionary of table_name: (table, 'column name') pairs. The column name
         should match the index of `agents`. Indexes in `agents` that
         are copied or removed will also be copied and removed in
-        linked tables. 
+        linked tables.
 
     Returns
     -------
